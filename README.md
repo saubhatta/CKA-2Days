@@ -1,1 +1,1 @@
-# CKA-2Days
+# CKA
