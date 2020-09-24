@@ -27,7 +27,7 @@ kubectl get pods -o wide
 ## Observe that node has been marked as SchedulingDisabled
 
 ```bash
-kubectl get pods -o wide
+kubectl get nodes -o wide
 ```
 
 ## Uncordon the node now and check if again old pods are scheduled on it or not
